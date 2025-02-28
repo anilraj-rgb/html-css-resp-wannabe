@@ -26,3 +26,12 @@
     padding-bottom: 50px;
 }
 
+.why-us {
+    background-color: #222222;
+    margin: -3rem 0;
+    padding: 50px 0;
+}
+
+.why-us .col-right{
+    width: 100%;
+}
